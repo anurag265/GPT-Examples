@@ -1,0 +1,704 @@
+4WORKING 
+PAPERS
+The New Regional Convention 
+for the Recognition of 
+Studies, Degrees and 
+Diplomas in Latin 
+America and the 
+Caribbean (2019)
+A comparative approach 
+to recognition 
+processes in 
+the region
+ChatGPT   
+and Artificial Intelligence in higher education
+Quick start guide  
+Portrait created by DALL.E 2, an AI system 
+that can create realistic images and art in 
+response to a text description. The AI was 
+asked to produce an impressionist portrait of 
+how artificial intelligence would look going to 
+university. Concept by UNESCO IESALC.
+
+Published in 2023 by the United Nations Educational, Scientific and Cultural Organization, 7, place de Fontenoy, 75352 Paris 07 
+SP , France and the UNESCO International Institute for Higher Education in Latin America and the Caribbean (IESALC), Edificio 
+Asovincar, Av. Los Chorros con Calle Acueducto, Altos de Sebucán. Caracas, 1071, Venezuela.
+© UNESCO 2023
+Document code: ED/HE/IESALC/IP/2023/12
+This publication is available in Open Access under the Attribution-ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) license (http://
+creativecommons.org/licenses/by-sa/3.0/igo/). By using the content of this publication, the users accept to be bound by the 
+terms of use of the UNESCO Open Access Repository (http://en.unesco.org/open-access/terms-use-ccbysa-en). 
+The designations employed and the presentation of material throughout this publication do not imply the expression of any 
+opinion whatsoever on the part of UNESCO concerning the legal status of any country, territory, city, or area or its authorities or 
+concerning the delimitation of its frontiers or boundaries.
+Authors: Emma Sabzalieva and Arianna Valentini
+Graphic design and layout: César Vercher
+Cover image: Portrait created by DALL.E 2, an AI system that can generate realistic images and art in response to a text 
+description. The AI was asked to produce an impressionist portrait of how artificial intelligence would look going to university. 
+Concept by UNESCO IESALC
+For more information, please contact: info-IESALC@unesco.org      www.iesalc.unesco.org      +58 212 2861020
+Acknowledgements: Eglis Chacón, Francesc Pedró, Yuma Inzolia (UNESCO IESALC). The authors also wish to acknowledge the 
+contributions of Priscila Gonsales, Mike Sharples, and Aleksandr Tiulkanov, whose frameworks have inspired and been developed 
+in the Guide.
+Some sections of this Quick Start Guide are adapted from Harnessing the era of Artificial Intelligence in higher education: A Manual 
+for Higher Education Stakeholders, to be published by UNESCO IESALC in 2023.The Global Education 2030 Agenda
+UNESCO, as the United Nations’ specialized agency for 
+education, is entrusted to lead and coordinate the 
+Education 2030 Agenda, which is part of a global 
+movement to eradicate poverty through 17 Sustainable 
+Development Goals by 2030. Education, essential to 
+achieve all of these goals, has its own dedicated Goal 4, 
+which aims to “ensure inclusive and equitable quality 
+education and promote lifelong learning opportuni-
+ties for all. ” The Education 2030 Framework for Action 
+provides guidance for the implementation of this 
+ambitious goal and commitments. UNESCO – a global leader in education
+Education is UNESCO’s top priority because it is a 
+basic human right and the foundation for peace 
+and sustainable development. UNESCO is the 
+United Nations’ specialized agency for education, 
+providing global and regional leadership to drive 
+progress, strengthening the resilience and capacity 
+of national systems to serve all learners and 
+responding to contemporary global challenges 
+through transformative learning, with special focus 
+on gender equality and Africa across all actions.
+
+This Quick Start Guide introduces ChatGPT, an Artificial 
+Intelligence (AI) tool that has taken the world by storm, 
+reaching 100 million users just two months after being 
+launched. The Quick Start Guide provides an overview of 
+how ChatGPT works and explains how it can be used in 
+higher education. The Quick Start Guide raises some of the 
+main challenges and ethical implications of AI in higher 
+education and offers practical steps that higher education 
+institutions can take.
+This Quick Start Guide was published in April 2023. Artificial 
+Intelligence (AI) is a rapidly developing field. This guide 
+is based on GPT-3.5, the latest free version of ChatGPT 
+available at the time of writing. As well as dynamic changes 
+in technology, the ethical implications of ChatGPT and 
+other forms of AI are also swiftly advancing. Readers are 
+advised to constantly check reliable sources for the latest 
+news and updates.
+ChatGPT and Artificial Intelligence in higher education:  
+Quick start guide 
+Table of Contents
+What is ChatGPT? .............................................................................................................................................................................................. 5
+Get started with ChatGPT .............................................................................................................................................................................. 5
+Create an account ........................................................................................................................................................................................ 5
+Use ChatGPT ................................................................................................................................................................................................... 5
+Important considerations when using ChatGPT .............................................................................................................................. 6
+Artificial intelligence ....................................................................................................................................................................................... 7
+Applications of ChatGPT in higher education ...................................................................................................................................... 8
+Teaching and learning ................................................................................................................................................................................ 8
+Research .......................................................................................................................................................................................................... 9
+Administration ............................................................................................................................................................................................ 10
+Community engagement ........................................................................................................................................................................ 10
+Challenges and ethical implications ....................................................................................................................................................... 10
+Academic integrity .................................................................................................................................................................................... 11
+Lack of regulation ...................................................................................................................................................................................... 11
+Privacy concerns ......................................................................................................................................................................................... 11
+Cognitive bias .............................................................................................................................................................................................. 11
+Gender and diversity ................................................................................................................................................................................. 11
+Accessibility .................................................................................................................................................................................................. 11
+Commercialization ..................................................................................................................................................................................... 11
+UNESCO Recommendation on the Ethics of AI .................................................................................................................................. 12
+Actioning the UNESCO Recommendation ........................................................................................................................................ 12
+Adapting to ChatGPT in your higher education institution ......................................................................................................... 12
+Use ChatGPT with care and creativity ................................................................................................................................................. 12
+Build capacity to understand and manage ChatGPT .................................................................................................................... 13
+Conduct an AI audit ................................................................................................................................................................................... 14
+Resources and further information ......................................................................................................................................................... 14
+ChatGPT and Artificial Intelligence in higher education: Quick start guide 
+4
+ChatGPT and Artificial Intelligence in higher education: Quick start guide 5What is ChatGPT? 
+ChatGPT is a language model that allows people to interact 
+with a computer in a more natural and conversational way. GPT 
+stands for “Generative Pre-trained Transformer” and is the name 
+given to a family of natural language models developed by 
+open Artificial Intelligence (AI). This is also known as a form of 
+generative AI because of its ability to produce original results. 
+ChatGPT uses natural language processing to learn from 
+Internet data, providing users with artificial intelligence-based 
+written answers to questions or prompts.
+These models are trained on large text datasets to learn to 
+predict the next word in a sentence and, from that, generate 
+coherent and compelling human-like output in response to a 
+question or statement. In the case of ChatGPT, 570gb of data 
+representing 300 billion words have been supplied to the 
+system and it has around 175 billion parameters.1
+We can think about ChatGPT as a “computer robot” with 
+whom you can talk about anything.2 This is helped by its user-
+friendly interface. ChatGPT can be asked for data, analysis and 
+even an opinion. However, the algorithm by which it works 
+does not take a definite position, as its interpretation is based 
+on the statistical analysis of billions of texts on the Internet.
+This Quick Start Guide is based on GPT-3.5, the latest 
+free version of ChatGPT available at the time of writing. 
+Subsequent versions are expected to have more functionality 
+including the capacity to interpret different types of data and 
+with more advanced writing abilities.3
+1    https://www.sciencefocus.com/future-technology/gpt-3/ 
+2    Almost anything: ChatGPT has been trained to refuse inappropriate requests e.g., questions that violate someone’s rights, promote discrimination are 
+offensive or deliberately seek to mislead. While robust, this training is not foolproof.
+3    https://www.timeshighereducation.com/news/gpt-4s-launch-another-step-change-ai-and-higher-education Get started with ChatGPT
+This step-by-step guide is also available as a video tutorial 
+and a seminar in IESALC Campus. For more information, visit 
+https://campus.iesalc.unesco.org . 
+Create an account
+1. In any internet browser, go to: https://chat.openai.com/
+2. Create an account:
+a. Enter your email address or connect a Google or 
+Microsoft account.
+b. Create a password (at least 8 characters).
+c. Check the email address for an email from OpenAI and 
+click to verify your email address.
+d. Enter your first and last name and date of birth.
+e. Enter your phone number.
+f. Enter the verification code that you receive by text 
+message.
+Note that ChatGPT is not currently available in all countries.
+Use ChatGPT
+1. Once you have created an account or logged in, enter your 
+question or prompt into the field ‘Send a message’ .
+2. The response will be generated immediately, with the 
+words appearing quickly across your screen.
+a. Consider marking whether the response is acceptable or 
+not by selecting the thumb up or thumb down icon. If 
+you select an icon, a pop-up box will ask you provide 
+additional comments (not required) before you submit 
+your feedback.
+3. Click ‘Regenerate response’ to have ChatGPT answer the 
+same prompt again.
+a. Consider marking whether you found the revised 
+response better, the same or worse.
+b. If you generate multiple responses, you can scroll 
+between them.
+4. The chat is saved in the left-hand menu. You can rename or 
+delete the chat.
+5. To start a new query, click on ‘New chat’ or type into ‘Send a 
+message’ underneath any existing query.We asked ChatGPT to explain 
+ChatGPT in 50 words. Here is its 
+answer:
+ChatGPT is a large language model developed by 
+OpenAI, based on the GPT-3.5 architecture. It can 
+generate human-like text based on input prompts, 
+answer questions, and perform a variety of natural 
+language processing tasks. It was trained on a 
+massive dataset of internet text to learn patterns 
+and relationships in language.
+ChatGPT and Artificial Intelligence in higher education: Quick start guide 6Important considerations when using 
+ChatGPT
+		To produce a more relevant result, provide ChatGPT with 
+prompts about how you want it to respond.4 For example:
+		Tell me how [add query] works in 50 words.
+		Behave as/Act as a higher education manager. [Add 
+query]
+		Write a four-paragraph essay about [add query]
+4     More examples of prompts can be found at Atlas, S. (2023) ‘ChatGPT for Higher Education and Professional Development: A Guide to Conversational 
+AI’ , College of Business Faculty Publications [Preprint]. Available at: https://digitalcommons.uri.edu/cba_facpubs/548.
+5     Flowchart devised by Aleksandr Tiulkanov, AI and Data Policy Lawyer, January 2023		If your query does not produce the intended result, try 
+changing the prompt(s) and run the query again.
+		Due to high demand, the free version of ChatGPT may be 
+unavailable or run very slowly.
+		Data used to train ChatGPT’s responses goes up to 2021. 
+This means ChatGPT has no knowledge about anything 
+that has happened or been created since 2021. However, 
+some browsers that integrate ChatGPT do enable it to 
+connect to more recent information.
+		There is no way that ChatGPT can verify the information it 
+provides or to assess its reliability. 
+To ascertain the circumstances in which ChatGPT may be safe 
+to use, follow this flowchart: 5
+Figure 1: When is it safe to use ChatGPT?5Frequently asked questions 
+about accessing ChatGPT
+How do I find it? At https://chat.openai.com 
+What information do I have to provide to use it? 
+To create an account, you need to use your email 
+address, phone number, name, and date of birth. 
+Is there an app? No, ChatGPT is only available 
+through a web browser using an internet enabled 
+device.
+Is it free? Yes, there is a free version. An option to 
+upgrade to ChatGPT Plus for US$20/month is in the 
+process of being rolled out. 
+What is the difference between the free and the 
+paid version? According to OpenAI, ChatGPT Plus 
+subscribers get priority access to the latest releases, 
+more reliable availability, and faster response speeds.
+Can I ask it questions in any language? ChatGPT 
+works best in English because of the amount of 
+information available to it but it also works in other 
+languages including Spanish, Portuguese, and French. 
+The reliability of responses may vary depending on 
+the language.
+Does it work in all countries? It works in most places 
+but is blocked or unavailable in around 30 countries.
+Does it work offline? No, you must have a live 
+internet connection to use ChatGPT .
+
+ChatGPT and Artificial Intelligence in higher education: Quick start guide 7Artificial intelligence 
+ChatGPT is based on machine learning, which is currently 
+the most popular technique in Artificial Intelligence (AI) 
+technology. This section summarizes the different types of AI.
+One way to understand AI is by classifying it by capabilities: 
+Artificial Narrow Intelligence (ANI) and Artificial General 
+Intelligence (AGI). ANI, or weak AI, is the type of AI that 
+has been achieved so far. AGI, if ever reached, would be 
+comparable to human intelligence.
+ANI has two main functionalities: reactive machines and 
+limited memory. Reactive machines are the primary type of 
+AI that store memories or experiences. They solely react to a 
+current scenario as they are taught one thing or task and are 
+rarely applied to other scenarios. The most famous example of a 
+reactive machine is IBM’s Deep Blue computer, which was able to 
+play chess and beat international grandmaster Garry Kasparov.
+Limited memory stores information for a short time and reacts 
+to it. For example, autonomous vehicles or self-driving cars 
+use the information of their surroundings and automatically 
+make decisions such as stop or turn.
+Machine learning is the currently the most popular technique 
+of ANI and has seen significant progress in recent years. Rather 
+than being programmed with rules to produce answers, 
+computers receive data and the answers expected from the 
+data and, as a result, produce rules by identifying patterns 
+between the two. ChatGPT is based on machine learning.Other techniques of ANI include symbolic logic (also called 
+inference engines or if-then models), expert systems, and 
+knowledge graphs. Symbolic logic is most typically applied 
+in chatbots, which determine the nature of a user’s problem 
+through a series of closed questions, from where the chatbot 
+may refer users to a human agent. Knowledge graphs are 
+ways to connect and explain different concepts/data that are 
+not based on machine learning. 
+Figure 2: ChatGPT home screen
+What is artificial intelligence (AI)?
+As technology develops, so too do the ways we 
+define it. There is no single or fixed definition of AI, 
+but there is common agreement that machines 
+based on AI “are potentially capable of imitating 
+or even exceeding human cognitive capacities, 
+including sensing, language interaction, reasoning 
+and analysis, problem solving, and even creativity. ”
+UNESCO World Commission on the Ethics of 
+Scientific Knowledge and Technology (2019). 
+Preliminary Study on the Ethics of Artificial 
+Intelligence. Available at: https://unesdoc.unesco.
+org/ark:/48223/pf0000367823
+ChatGPT and Artificial Intelligence in higher education: Quick start guide 8Applications of ChatGPT in higher 
+education 
+Although still a recent development, ChatGPT has already 
+been applied widely in different functions of higher 
+education. This section outlines some possible uses of 
+ChatGPT in teaching and learning, research, administration, 
+and community engagement.Teaching and learning
+Due to its ability to generate and assess information, ChatGPT 
+can play a range of roles in teaching and learning processes. 
+Together with other forms of AI, ChatGPT could improve 
+the process and experience of learning for students. To do 
+this, ChatGPT can be used as a standalone tool, or it can be 
+integrated into other systems and platforms used by HEIs. 
+ChatGPT can perform many simple or technical tasks (e.g., 
+basic research, calculations, proofing) and the examples 
+outlined in the table show how ChatGPT could be 
+incorporated and used to augment teaching and learning.       
+Example of a knowledge graph – result of entering the query 
+‘UNESCO’ into a Google search.Example of symbolic logic – the chatbot Boti, provided by 
+the city of Buenos Aires, Argentina. Boti works online and in 
+WhatsApp
+Source: http://buenosaires.gob.ar/boti
+ChatGPT and Artificial Intelligence in higher education: Quick start guide 9Research 6
+ChatGPT can be used by researchers at different stages of the 
+research process. This is summarized in figure 3.
+ChatGPT has also been trialled in other processes relating 
+to research, such as completing the technical parts of 
+research grant applications (e.g., communications plans). An 
+experimental use of ChatGPT to assess its ability to provide 
+6     The roles and descriptions were created by Mike Sharples (Professor Emeritus of Educational Technology, Open University, UK) and are reproduced 
+with permission. The examples of implementation were devised by UNESCO IESALC and also draw from suggestions by Ronald Knust Graichen 
+(Education Consultant, the Netherlands) published at https://eduteka.icesi.edu.co/articulos/KNUST-como-usar-chatGPT-en-el-aula. 
+7     Srivastava, M. (2023) ‘A day in the life of ChatGPT as an academic reviewer: Investigating the potential of large language model for scientific literature 
+review’ . OSF Preprints. Available at: https://doi.org/10.31219/osf.io/wydct.
+8     For example, https://www.scientificamerican.com/article/we-asked-gpt-3-to-write-an-academic-paper-about-itself-mdash-then-we-tried-to-get-it-
+published/.peer review of academic papers found that it may be able to 
+aid in predicting whether a paper will be accepted.7 
+ChatGPT has also been used to generate entire academic 
+journal articles,8 opening an ethical debate about whether 
+a non-human author can be considered a contributor to the 
+creation of knowledge. At the time of writing this Quick Start 
+Guide, no consensus had been reached. Some publishers 
+have argued that ChatGPT cannot take responsibility for the Role6Description Example of implementation
+Possibility engineAI generates alternative ways of 
+expressing an ideaStudents write queries in ChatGPT and use the Regenerate response 
+function to examine alternative responses.
+Socratic opponentAI acts as an opponent to develop 
+and argumentStudents enter prompts into ChatGPT following the structure of a 
+conversation or debate. Teachers can ask students to use ChatGPT to 
+prepare for discussions.
+Collaboration coachAI helps groups to research and 
+solve problems togetherWorking in groups, students use ChatGPT to find out information to 
+complete tasks and assignments.
+Guide on the sideAI acts as a guide to navigate 
+physical and conceptual spacesTeachers use ChatGPT to generate content for classes/courses (e.g., 
+discussion questions) and advice on how to support students in 
+learning specific concepts. 
+Personal tutorAI tutors each student and gives 
+immediate feedback on progressChatGPT provides personalized feedback to students based on 
+information provided by students or teachers (e.g., test scores).
+Co-designerAI assists throughout the design 
+processTeachers ask ChatGPT for ideas about designing or updating a 
+curriculum (e.g., rubrics for assessment) and/or focus on specific 
+goals (e.g., how to make the curriculum more accessible).
+ExploratoriumAI provides tools to play with, 
+explore and interpret dataTeachers provide basic information to students who write different 
+queries in ChatGPT to find out more. ChatGPT can be used to support 
+language learning.
+Study buddyAI helps the student reflect on 
+learning materialStudents explain their current level of understanding to ChatGPT and 
+ask for ways to help them study the material. ChatGPT could also be 
+used to help students prepare for other tasks (e.g., job interviews).
+MotivatorAI offers games and challenges to 
+extend learningTeachers or students ask ChatGPT for ideas about how to extend 
+students’ learning after providing a summary of the current level of 
+knowledge (e.g., quizzes, exercises). 
+Dynamic assessorAI provides educators with a 
+profile of each student’s current 
+knowledgeStudents interact with ChatGPT in a tutorial-type dialogue and 
+then ask ChatGPT to produce a summary of their current state of 
+knowledge to share with their teacher/for assessment.
+ChatGPT and Artificial Intelligence in higher education: Quick start guide 10content or integrity of articles and therefore cannot be an 
+author, whereas others accept its role as co-creator.9
+Administration
+ChatGPT’s main role in supporting higher education 
+institutions’ (HEI) administration has been in improving the 
+efficiency of processes. In this way, ChatGPT can reduce 
+human administrative time spent on tasks such as:
+	Responding to queries from applicants (potential students)
+	Helping students to sign up for courses, complete course 
+requirements, check administrative information (e.g., exam 
+timetables, location of classes)
+	Finding news, resources, and other information
+	Sending reminders or notifications 
+	Translation of information for international students/staff
+With the use of ChatGPT, administrative services can be 
+available 24/7 and can be supported across different 
+platforms. As well as integration into websites, it can also 
+be used with social media, messaging services and learning 
+management systems/virtual campuses. When interacting 
+9     Stokel-Walker, C. (2023) ‘ChatGPT listed as author on research papers: many scientists disapprove’ , Nature, 613(7945), pp. 620–621. Available at: 
+https://doi.org/10.1038/d41586-023-00107-z.
+10     At the time of writing, ChatGPT is blocked in China, Iran, Italy, North Korea, and Russia. It is unavailable in 32 other countries. See also: https://www.
+bbc.com/news/technology-65139406 and https://www.wepc.com/tips/what-countries-is-chat-gpt-unavailable/. with ChatGPT, the style is more conversational, creating a 
+more personalized experience.
+Community engagement
+HEIs can also use ChatGPT to develop sound strategies for 
+community engagement. Considering their own specific 
+characteristics (geography, location, community needs, local 
+demographics), ChatGPT could be asked to develop targeted 
+strategies to improve the wellbeing of the overall community. 
+Based on those strategies, they could develop communication 
+campaigns geared to the community and with a specific call 
+to action. 
+Challenges and ethical 
+implications
+The impact of ChatGPT on higher education has been 
+immediate and divisive. Although its applications in higher 
+education are extensive, many universities have already 
+banned it over fears of student plagiarism, and several 
+countries have blocked ChatGPT.10 This section distils the 
+main challenges and ethical implications of ChatGPT in higher 
+education. 
+Figure 3: Possible uses of ChatGPT in the research process
+Image created by UNESCO IESALC
+ChatGPT and Artificial Intelligence in higher education: Quick start guide 11Academic integrity
+The main concern that has been expressed about ChatGPT 
+in higher education relates to academic integrity.11 HEIs and 
+educators have sounded alarm bells about the increased risk 
+of plagiarism and cheating if students use ChatGPT to prepare 
+or write essays and exams. This may have deeper implications 
+for subjects that rely more on written inputs or information 
+recall, areas that ChatGPT can better support.
+There are also concerns that existing tools to detect 
+plagiarism may not be effective in the face of writing done 
+by ChatGPT. This has already led to the development of other 
+applications that can detect whether AI has been used in 
+writing. In the meantime, multiple HEIs around the world have 
+banned ChatGPT due to concerns around academic integrity 
+and others have updated or changed the way they do 
+assessments, basing them instead on in-class or non-written 
+assignments.
+Lack of regulation
+ChatGPT is not currently regulated, a concern addressed by 
+the UNESCO Recommendation on the Ethics of AI  (see next 
+section). The extremely rapid development of ChatGPT has 
+caused apprehension for many, leading a group of over 1,000 
+academics and private sector leaders to publish an open letter 
+calling for a pause on the development of training powerful 
+AI systems.12 This cessation would allow time for potential 
+risks to be investigated and better understood and for shared 
+protocols to be developed.
+Privacy concerns
+In April 2023, Italy became the first country to block ChatGPT 
+due to privacy related concerns.13 The country’s data 
+protection authority said that there was no legal basis for 
+the collection and storage of personal data used to train 
+ChatGPT. The authority also raised ethical concerns around 
+the tool’s inability to determine a user’s age, meaning minors 
+may be exposed to age-inappropriate responses. This 
+example highlights wider issues relating to what data is being 
+collected, by whom, and how it is applied in AI.
+11     See also: Sullivan, M., Kelly, A. and McLaughlan, P . (2023) ‘ChatGPT in higher education: Considerations for academic integrity and student learning’ , 
+Journal of Applied Learning and Teaching, 6(1). Available at: https://doi.org/10.37074/jalt.2023.6.1.17.
+12     https://futureoflife.org/open-letter/pause-giant-ai-experiments/ 
+13     https://www.bbc.com/news/technology-65139406 
+14     See also: https://code.intef.es/noticias/chatgpt-un-riesgo-o-una-oportunidad-para-el-sector-educativo/; https://www.cbsnews.com/news/chatgpt-
+large-language-model-bias-60-minutes-2023-03-05/ 
+15     UNESCO IESALC (2021) Women in higher education: has the female advantage put an end to gender inequalities? Available at: https://unesdoc.
+unesco.org/ark:/48223/pf0000377182; https://oecd.ai/en/wonk/closing-the-gender-gap Cognitive bias
+It is important to note that ChatGPT is not governed by 
+ethical principles and cannot distinguish between right and 
+wrong, true and false. This tool only collects information from 
+the databases and texts it processes on the internet, so it 
+also learns any cognitive bias found in that information. It is 
+therefore essential to critically analyse the results it provides 
+and compare them with other sources of information.
+Gender and diversity
+Concerns about gender and other forms of discrimination are 
+not unique to ChatGPT but to all forms of AI.14 On the one 
+hand, this reflects the lack of female participation in subjects 
+related to AI and in research/development on AI and on 
+the other hand, the power of generative AI to produce and 
+disseminate content that discriminates or reinforces gendered 
+and other stereotypes.15
+Accessibility
+There are two main concerns around the accessibility of 
+ChatGPT. The first is the lack of availability of the tool in 
+some countries due to government regulations, censorship, 
+or other restrictions on the internet. The second concern 
+relates to broader issues of access and equity in terms of the 
+uneven distribution of internet availability, cost and speed. 
+In connection, teaching and research/development on AI 
+has also not been evenly spread around the world, with 
+some regions far less likely to have been able to develop  
+knowledge or resources on this topic.
+Commercialization
+ChatGPT was created by a private company, OpenAI. Whilst 
+the company has pledged to maintain a free version of 
+ChatGPT, it has launched a subscription option (currently 
+US$20/month) that offers greater reliability and faster access 
+to new versions of the tool. The involvement of private 
+entities in higher education is not new and calls for care 
+and regulation if selecting AI and other tools that are run by 
+companies dependent on making profit, may not be open 
+source (and therefore more equitable and available), and 
+which may be extracting data for commercial purposes.
+ChatGPT and Artificial Intelligence in higher education: Quick start guide 12UNESCO Recommendation  
+on the Ethics of AI
+The UNESCO Recommendation on the Ethics of AI aims 
+to provide a foundation so that AI systems work for the 
+betterment not only of individuals and societies but also 
+for the good of the environment and ecosystems. The 
+Recommendation is also designed to prevent harm from or 
+by AI. 
+Recognizing that AI has both positive and negative effects, 
+the Recommendation was adopted in late 2021 with the 
+expectation that governments would adopt it at national level 
+and that other public and private sector actors would benefit 
+from the ethical guidance provided by the Recommendation.
+UNESCO has also published guidance for policymakers 
+on AI and education . It outlines emerging practices in 
+education and discusses the challenges of using AI to achieve 
+Sustainable Development Goal 4  (Quality Education).
+This will be accompanied later in 2023 by a Manual on AI in 
+Higher Education to be published by UNESCO IESALC. This 
+is believed to be the first globally comprehensive guide for higher education stakeholders on AI, targeting particularly 
+those contexts where AI has been less widespread.
+Actioning the UNESCO Recommendation
+Harnessing the rapid spread of AI to ensure it supports the 
+greater good should go hand in hand with the implementation 
+of the UNESCO Recommendation on the Ethics of AI.
+The UNESCO guidance for policymakers on AI and education 
+sets out policy recommendations in seven areas:
+1. A system-wide vision and strategic priorities
+2. Overarching principle for AI and education policies
+3. Interdisciplinary planning and inter-sectoral governance
+4. Policies and regulations for equitable, inclusive, and ethical 
+use of AI
+5. Master plans for using AI in education management, 
+teaching, learning, and assessment
+6. Pilot testing, monitoring and evaluation, and building an 
+evidence base
+7. Fostering local AI innovations for education
+The forthcoming UNESCO IESALC Manual on AI in Higher 
+Education will include recommendations on implementing 
+AI in line with the ethical principles set out in the UNESCO 
+Recommendation and tailored guidance for higher education 
+stakeholders on adapting the UNESCO guidance on AI and 
+education.
+UNESCO Recommendation on the Ethics of AI, adopted in 2021
+Statement by UNESCO Director-General Audrey Azoulay ,  
+30 March 2023
+ChatGPT and Artificial Intelligence in higher education: Quick start guide 13Adapting to ChatGPT in your 
+higher education institution
+Used ethically and with due consideration of the need to build 
+individual and institutional capacity, ChatGPT could support 
+HEIs to provide students with a more personalized and relevant 
+learning experience, make administrative processes more 
+efficient, and advance research and community engagement.
+Use ChatGPT with care and creativity
+While some states and HEIs have blocked ChatGPT, most 
+governments and HEIs are seeking ways to adjust to a world 
+in which AI has become more widespread, accessible, and 
+easy to use. In that sense, ChatGPT can be used but requires 
+both care and creativity to ensure it is handled ethically and 
+appropriately. 
+Suggested ways forward include:16
+		Create opportunities for faculty, staff, students, and other 
+stakeholders to discuss the impact of ChatGPT on the 
+HEI and co-construct strategies to adapt and adopt to AI. 
+The section below on conducting an AI audit offers one 
+route for this type of engagement.
+		Introduce clear guidance for students and instructors 
+about how and when ChatGPT can be used (and when 
+it cannot). Such guidance should be negotiated with 
+students and teachers, not imposed on them. 
+		Connect the use of ChatGPT to course learning 
+outcomes. This helps students understand how ChatGPT 
+can support their learning and what expectations there 
+are for them.
+		Review all forms of assessment and evaluation to 
+ensure that each element is fit for purpose. This review 
+may lead to replacing exams or other assessments with 
+in-person assessments or altering the types of questions 
+or exam formats that are used.
+		Review and update policies relating to academic 
+integrity/honesty in relation to ChatGPT and other AI 
+tools.17
+		Train teachers, researchers, and students to improve 
+the queries they pose to ChatGPT. As researchers have 
+noted, ChatGPT is most useful when the inputs provided 
+to it are carefully created.18
+16     Some of these suggestions are adapted from existing guidance already issued by HEIs. For example: http://www.rochester.edu/college/honesty/
+assets/pdf/chatgpt-ai-guidance-for-instructors.pdf 
+17     See for example: https://conecta.tec.mx/es/noticias/nacional/institucion/tec-de-monterrey-recomienda-su-comunidad-uso-inteligente-de-chatgpt 
+18     https://www.timeshighereducation.com/depth/chatgpt-revolution-academic-research-has-begun Build capacity to understand and 
+manage ChatGPT
+Adjusting to higher education in the era of ChatGPT also 
+demands that HEIs pay attention to their role in building 
+capacity to understand and to manage ChatGPT and AI. This 
+must be balanced by the understanding that, at least for now, 
+ChatGPT cannot replace human creativity and critical thinking 
+and it is on these strengths that higher education has flourished.
+New programmes/courses that focus on ChatGPT/AI will 
+increase research and development capacity and provide 
+students with cutting edge knowledge.
+Existing programmes/courses can be updated to 
+incorporate teaching of:
+		AI literacy – as part of an expanded understanding of 
+digital literacy and skills
+		AI ethics
+		Core AI competencies and skills
+Training for staff can ensure that the support they provide 
+to students and other stakeholders builds on rather than 
+replicating what chatbots/AI tools offer and increase 
+confidence in the deployment of technology.
+Peer support and mentoring for faculty members to increase 
+skill level and share good practices for teaching and ways of 
+using ChatGPT in research can be done within faculties, at 
+institutional level, or among supra-institutional communities 
+of knowledge.
+UNESCO IESALC will be offering an interactive version of this 
+Quick Start Guide through Campus IESALC, a social and 
+collaborative learning community. A longer course on AI 
+and higher education is also envisaged. These courses are 
+designed to strengthen competencies in the use of ChatGPT 
+and other forms of AI in higher education.
+ChatGPT and Artificial Intelligence in higher education: Quick start guide 14Conduct an AI audit
+Regardless of whether ChatGPT and other forms of AI are 
+already being used in your HEI, conducting an AI audit19 is an 
+important step that will help assess the current situation and 
+support institutional planning. 
+It is suggested that this audit is undertaken by the HEI’s 
+governing body following extensive consultation with all 
+academic, administrative and IT departments as well as with 
+students. HEIs may consider additionally consulting with their 
+key stakeholders such as members of the local community, 
+research partners, and students’ families.
+1. Understand the current situation
+		What is data-driven AI?
+		How can digital technology support this HEI’s functions?
+		If the technology is based on AI: 
+		What data does it collect? 
+		How does its data processing work?
+		At institutional level, what relevant policies or regulations 
+currently exist?
+		On the use of AI
+		On privacy and data protection
+		On related areas (e.g., plagiarism, safeguarding)
+		What external policies or regulations does the HEI need to 
+account for (e.g., from government or research funders)?
+		Which types of AI are currently being used in this HEI? 
+		In which functions or units?
+		Do all stakeholders (faculty, staff, students) have access 
+to these tools? 
+		How is training and support provided?
+19     This audit has been adapted with permission from the AI Audit in Education developed by Priscila Gonsales (Co-founder and Director of 
+Educadigital and Researcher at the UNESCO Chair in Open and Distance Education, University of Brasília, Brazil).2. Decide which AI to use
+		Which areas could benefit from using AI? (e.g., student 
+services, assessment, research)
+		Which AI technology could be chosen?
+		What would be the criteria for choosing?
+		What value does the technology add?
+		How would data be protected?
+		What is the HEI’s position on open source/access vs 
+commercial AI tools?
+		How can the HEI ensure accessibility factors are 
+considered?
+3. Monitor performance and equity
+		How effective is the AI technology in meeting the need 
+that was identified?
+		What criteria are used to measure effectiveness? 
+		Can the data collected be used by the HEI?
+		How can it be used?
+		How often is data collected?
+		To what extent is the AI technology overcoming or 
+addressing equity concerns?
+		How is this measured?
+Resources and further information
+Campus IESALC: https://campus.iesalc.unesco.org/ 
+UNESCO (2021) Recommendation on the Ethics of Artificial 
+Intelligence. Available at: https://unesdoc.unesco.org/
+ark:/48223/pf0000381137
+UNESCO (2021) AI and education: Guidance for policy-makers. 
+Available at: https://unesdoc.unesco.org/ark:/48223/
+pf0000376709 
+UNESCO World Commission on the Ethics of Scientific 
+Knowledge and Technology (2019). Preliminary Study on 
+the Ethics of Artificial Intelligence. Available at: https://
+unesdoc.unesco.org/ark:/48223/pf0000367823 Stages of an AI audit in higher 
+education
+1. Understand
+2. Decide
+3. Monitor
+Higher Education 
+Research and Foresight
+Digital Transformation and Artificial Intelligence
+The UNESCO International Institute for Higher Education (UNESCO 
+IESALC) is one of UNESCO’s key education-focused institutes and is 
+the only institute in the United Nations  with a specific mandate for 
+higher education. Taking a holistic and integrated intersectoral and 
+cross-sectoral approach to higher education, UNESCO IESALC provides 
+support to Member States through policy-driven and action-oriented 
+research and publications, capacity development, training, advocacy and 
+networking.
+This Quick Start Guide introduces ChatGPT, an Artificial Intelligence 
+(AI) tool that has taken the world by storm, reaching 100 million users 
+just two months after being launched. The Quick Start Guide provides 
+an overview of how ChatGPT works and explains how it can be used 
+in higher education. The Quick Start Guide raises some of the main 
+challenges and ethical implications of AI in higher education and offers 
+practical steps that higher education institutions can take.
+info-IESALC@unesco.org       iesalc.unesco.org       @unesco_iesalc       @unesco_iesalc       UNESCO IESALC
+Sustainable 
+Development
+Goals
