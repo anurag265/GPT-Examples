@@ -53,7 +53,7 @@ Various parameters are specified to configure the behavior of the code, includin
 
 ### Note on Sample Provided
 
-Included a sample PDF file - `chatgpt_unsesco.pdf`. This PDF, titled "ChatGPT and Artificial Intelligence in Higher Education (Quick Start Guide)," is available online under the Open Access license - Attribution-ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO). You can use this PDF for testing and experimentation purposes.
+Included a sample PDF file - `chatgpt_unsesco.pdf`. This PDF, titled "ChatGPT and Artificial Intelligence in Higher Education (Quick Start Guide)," is available online under the Open Access license - Attribution-ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO). You can use this PDF for testing and experimentation.
 
 ---
 
