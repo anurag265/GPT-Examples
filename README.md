@@ -14,5 +14,10 @@ This is a simple chatbot that can look up a given PDF and answer your questions.
 
 ## Voice Memo to Project Plan
 
-The following code project aims to convert voice memos into project plans.
+The following project convert voice memos into project plans.
 
+---
+
+## Simple Assistants API Example
+
+A barebones implimentation of the new OpenAI Assistants API
