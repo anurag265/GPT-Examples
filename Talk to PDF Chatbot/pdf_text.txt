@@ -22,8 +22,8 @@ university. Concept by UNESCO IESALC.
 
 Published in 2023 by the United Nations Educational, Scientific and Cultural Organization, 7, place de Fontenoy, 75352 Paris 07 
 SP , France and the UNESCO International Institute for Higher Education in Latin America and the Caribbean (IESALC), Edificio 
-Asovincar, Av. Los Chorros con Calle Acueducto, Altos de Sebuc·n. Caracas, 1071, Venezuela.
-© UNESCO 2023
+Asovincar, Av. Los Chorros con Calle Acueducto, Altos de Sebuc√°n. Caracas, 1071, Venezuela.
+¬© UNESCO 2023
 Document code: ED/HE/IESALC/IP/2023/12
 This publication is available in Open Access under the Attribution-ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) license (http://
 creativecommons.org/licenses/by-sa/3.0/igo/). By using the content of this publication, the users accept to be bound by the 
@@ -32,31 +32,31 @@ The designations employed and the presentation of material throughout this publi
 opinion whatsoever on the part of UNESCO concerning the legal status of any country, territory, city, or area or its authorities or 
 concerning the delimitation of its frontiers or boundaries.
 Authors: Emma Sabzalieva and Arianna Valentini
-Graphic design and layout: CÈsar Vercher
+Graphic design and layout: C√©sar Vercher
 Cover image: Portrait created by DALL.E 2, an AI system that can generate realistic images and art in response to a text 
 description. The AI was asked to produce an impressionist portrait of how artificial intelligence would look going to university. 
 Concept by UNESCO IESALC
 For more information, please contact: info-IESALC@unesco.org      www.iesalc.unesco.org      +58 212 2861020
-Acknowledgements: Eglis ChacÛn, Francesc PedrÛ, Yuma Inzolia (UNESCO IESALC). The authors also wish to acknowledge the 
+Acknowledgements: Eglis Chac√≥n, Francesc Pedr√≥, Yuma Inzolia (UNESCO IESALC). The authors also wish to acknowledge the 
 contributions of Priscila Gonsales, Mike Sharples, and Aleksandr Tiulkanov, whose frameworks have inspired and been developed 
 in the Guide.
 Some sections of this Quick Start Guide are adapted from Harnessing the era of Artificial Intelligence in higher education: A Manual 
 for Higher Education Stakeholders, to be published by UNESCO IESALC in 2023.The Global Education 2030 Agenda
-UNESCO, as the United Nationsí specialized agency for 
+UNESCO, as the United Nations‚Äô specialized agency for 
 education, is entrusted to lead and coordinate the 
 Education 2030 Agenda, which is part of a global 
 movement to eradicate poverty through 17 Sustainable 
 Development Goals by 2030. Education, essential to 
 achieve all of these goals, has its own dedicated Goal 4, 
-which aims to ìensure inclusive and equitable quality 
+which aims to ‚Äúensure inclusive and equitable quality 
 education and promote lifelong learning opportuni-
-ties for all. î The Education 2030 Framework for Action 
+ties for all. ‚Äù The Education 2030 Framework for Action 
 provides guidance for the implementation of this 
-ambitious goal and commitments. UNESCO ñ a global leader in education
-Education is UNESCOís top priority because it is a 
+ambitious goal and commitments. UNESCO ‚Äì a global leader in education
+Education is UNESCO‚Äôs top priority because it is a 
 basic human right and the foundation for peace 
 and sustainable development. UNESCO is the 
-United Nationsí specialized agency for education, 
+United Nations‚Äô specialized agency for education, 
 providing global and regional leadership to drive 
 progress, strengthening the resilience and capacity 
 of national systems to serve all learners and 
@@ -115,7 +115,7 @@ ChatGPT and Artificial Intelligence in higher education: Quick start guide
 ChatGPT and Artificial Intelligence in higher education: Quick start guide 5What is ChatGPT? 
 ChatGPT is a language model that allows people to interact 
 with a computer in a more natural and conversational way. GPT 
-stands for ìGenerative Pre-trained Transformerî and is the name 
+stands for ‚ÄúGenerative Pre-trained Transformer‚Äù and is the name 
 given to a family of natural language models developed by 
 open Artificial Intelligence (AI). This is also known as a form of 
 generative AI because of its ability to produce original results. 
@@ -128,7 +128,7 @@ coherent and compelling human-like output in response to a
 question or statement. In the case of ChatGPT, 570gb of data 
 representing 300 billion words have been supplied to the 
 system and it has around 175 billion parameters.1
-We can think about ChatGPT as a ìcomputer robotî with 
+We can think about ChatGPT as a ‚Äúcomputer robot‚Äù with 
 whom you can talk about anything.2 This is helped by its user-
 friendly interface. ChatGPT can be asked for data, analysis and 
 even an opinion. However, the algorithm by which it works 
@@ -140,7 +140,7 @@ Subsequent versions are expected to have more functionality
 including the capacity to interpret different types of data and 
 with more advanced writing abilities.3
 1    https://www.sciencefocus.com/future-technology/gpt-3/ 
-2    Almost anything: ChatGPT has been trained to refuse inappropriate requests e.g., questions that violate someoneís rights, promote discrimination are 
+2    Almost anything: ChatGPT has been trained to refuse inappropriate requests e.g., questions that violate someone‚Äôs rights, promote discrimination are 
 offensive or deliberately seek to mislead. While robust, this training is not foolproof.
 3    https://www.timeshighereducation.com/news/gpt-4s-launch-another-step-change-ai-and-higher-education Get started with ChatGPT
 This step-by-step guide is also available as a video tutorial 
@@ -161,7 +161,7 @@ message.
 Note that ChatGPT is not currently available in all countries.
 Use ChatGPT
 1. Once you have created an account or logged in, enter your 
-question or prompt into the field ëSend a messageí .
+question or prompt into the field ‚ÄòSend a message‚Äô .
 2. The response will be generated immediately, with the 
 words appearing quickly across your screen.
 a. Consider marking whether the response is acceptable or 
@@ -169,7 +169,7 @@ not by selecting the thumb up or thumb down icon. If
 you select an icon, a pop-up box will ask you provide 
 additional comments (not required) before you submit 
 your feedback.
-3. Click ëRegenerate responseí to have ChatGPT answer the 
+3. Click ‚ÄòRegenerate response‚Äô to have ChatGPT answer the 
 same prompt again.
 a. Consider marking whether you found the revised 
 response better, the same or worse.
@@ -177,8 +177,8 @@ b. If you generate multiple responses, you can scroll
 between them.
 4. The chat is saved in the left-hand menu. You can rename or 
 delete the chat.
-5. To start a new query, click on ëNew chatí or type into ëSend a 
-messageí underneath any existing query.We asked ChatGPT to explain 
+5. To start a new query, click on ‚ÄòNew chat‚Äô or type into ‚ÄòSend a 
+message‚Äô underneath any existing query.We asked ChatGPT to explain 
 ChatGPT in 50 words. Here is its 
 answer:
 ChatGPT is a large language model developed by 
@@ -196,13 +196,13 @@ prompts about how you want it to respond.4 For example:
 		Behave as/Act as a higher education manager. [Add 
 query]
 		Write a four-paragraph essay about [add query]
-4     More examples of prompts can be found at Atlas, S. (2023) ëChatGPT for Higher Education and Professional Development: A Guide to Conversational 
-AIí , College of Business Faculty Publications [Preprint]. Available at: https://digitalcommons.uri.edu/cba_facpubs/548.
+4     More examples of prompts can be found at Atlas, S. (2023) ‚ÄòChatGPT for Higher Education and Professional Development: A Guide to Conversational 
+AI‚Äô , College of Business Faculty Publications [Preprint]. Available at: https://digitalcommons.uri.edu/cba_facpubs/548.
 5     Flowchart devised by Aleksandr Tiulkanov, AI and Data Policy Lawyer, January 2023		If your query does not produce the intended result, try 
 changing the prompt(s) and run the query again.
 		Due to high demand, the free version of ChatGPT may be 
 unavailable or run very slowly.
-		Data used to train ChatGPTís responses goes up to 2021. 
+		Data used to train ChatGPT‚Äôs responses goes up to 2021. 
 This means ChatGPT has no knowledge about anything 
 that has happened or been created since 2021. However, 
 some browsers that integrate ChatGPT do enable it to 
@@ -252,7 +252,7 @@ limited memory. Reactive machines are the primary type of
 AI that store memories or experiences. They solely react to a 
 current scenario as they are taught one thing or task and are 
 rarely applied to other scenarios. The most famous example of a 
-reactive machine is IBMís Deep Blue computer, which was able to 
+reactive machine is IBM‚Äôs Deep Blue computer, which was able to 
 play chess and beat international grandmaster Garry Kasparov.
 Limited memory stores information for a short time and reacts 
 to it. For example, autonomous vehicles or self-driving cars 
@@ -266,7 +266,7 @@ data and, as a result, produce rules by identifying patterns
 between the two. ChatGPT is based on machine learning.Other techniques of ANI include symbolic logic (also called 
 inference engines or if-then models), expert systems, and 
 knowledge graphs. Symbolic logic is most typically applied 
-in chatbots, which determine the nature of a userís problem 
+in chatbots, which determine the nature of a user‚Äôs problem 
 through a series of closed questions, from where the chatbot 
 may refer users to a human agent. Knowledge graphs are 
 ways to connect and explain different concepts/data that are 
@@ -276,10 +276,10 @@ What is artificial intelligence (AI)?
 As technology develops, so too do the ways we 
 define it. There is no single or fixed definition of AI, 
 but there is common agreement that machines 
-based on AI ìare potentially capable of imitating 
+based on AI ‚Äúare potentially capable of imitating 
 or even exceeding human cognitive capacities, 
 including sensing, language interaction, reasoning 
-and analysis, problem solving, and even creativity. î
+and analysis, problem solving, and even creativity. ‚Äù
 UNESCO World Commission on the Ethics of 
 Scientific Knowledge and Technology (2019). 
 Preliminary Study on the Ethics of Artificial 
@@ -302,8 +302,8 @@ ChatGPT can perform many simple or technical tasks (e.g.,
 basic research, calculations, proofing) and the examples 
 outlined in the table show how ChatGPT could be 
 incorporated and used to augment teaching and learning.       
-Example of a knowledge graph ñ result of entering the query 
-ëUNESCOí into a Google search.Example of symbolic logic ñ the chatbot Boti, provided by 
+Example of a knowledge graph ‚Äì result of entering the query 
+‚ÄòUNESCO‚Äô into a Google search.Example of symbolic logic ‚Äì the chatbot Boti, provided by 
 the city of Buenos Aires, Argentina. Boti works online and in 
 WhatsApp
 Source: http://buenosaires.gob.ar/boti
@@ -317,8 +317,8 @@ experimental use of ChatGPT to assess its ability to provide
 6     The roles and descriptions were created by Mike Sharples (Professor Emeritus of Educational Technology, Open University, UK) and are reproduced 
 with permission. The examples of implementation were devised by UNESCO IESALC and also draw from suggestions by Ronald Knust Graichen 
 (Education Consultant, the Netherlands) published at https://eduteka.icesi.edu.co/articulos/KNUST-como-usar-chatGPT-en-el-aula. 
-7     Srivastava, M. (2023) ëA day in the life of ChatGPT as an academic reviewer: Investigating the potential of large language model for scientific literature 
-reviewí . OSF Preprints. Available at: https://doi.org/10.31219/osf.io/wydct.
+7     Srivastava, M. (2023) ‚ÄòA day in the life of ChatGPT as an academic reviewer: Investigating the potential of large language model for scientific literature 
+review‚Äô . OSF Preprints. Available at: https://doi.org/10.31219/osf.io/wydct.
 8     For example, https://www.scientificamerican.com/article/we-asked-gpt-3-to-write-an-academic-paper-about-itself-mdash-then-we-tried-to-get-it-
 published/.peer review of academic papers found that it may be able to 
 aid in predicting whether a paper will be accepted.7 
@@ -359,18 +359,18 @@ ask for ways to help them study the material. ChatGPT could also be
 used to help students prepare for other tasks (e.g., job interviews).
 MotivatorAI offers games and challenges to 
 extend learningTeachers or students ask ChatGPT for ideas about how to extend 
-studentsí learning after providing a summary of the current level of 
+students‚Äô learning after providing a summary of the current level of 
 knowledge (e.g., quizzes, exercises). 
 Dynamic assessorAI provides educators with a 
-profile of each studentís current 
+profile of each student‚Äôs current 
 knowledgeStudents interact with ChatGPT in a tutorial-type dialogue and 
 then ask ChatGPT to produce a summary of their current state of 
 knowledge to share with their teacher/for assessment.
 ChatGPT and Artificial Intelligence in higher education: Quick start guide 10content or integrity of articles and therefore cannot be an 
 author, whereas others accept its role as co-creator.9
 Administration
-ChatGPTís main role in supporting higher education 
-institutionsí (HEI) administration has been in improving the 
+ChatGPT‚Äôs main role in supporting higher education 
+institutions‚Äô (HEI) administration has been in improving the 
 efficiency of processes. In this way, ChatGPT can reduce 
 human administrative time spent on tasks such as:
 	Responding to queries from applicants (potential students)
@@ -385,7 +385,7 @@ available 24/7 and can be supported across different
 platforms. As well as integration into websites, it can also 
 be used with social media, messaging services and learning 
 management systems/virtual campuses. When interacting 
-9     Stokel-Walker, C. (2023) ëChatGPT listed as author on research papers: many scientists disapproveí , Nature, 613(7945), pp. 620ñ621. Available at: 
+9     Stokel-Walker, C. (2023) ‚ÄòChatGPT listed as author on research papers: many scientists disapprove‚Äô , Nature, 613(7945), pp. 620‚Äì621. Available at: 
 https://doi.org/10.1038/d41586-023-00107-z.
 10     At the time of writing, ChatGPT is blocked in China, Iran, Italy, North Korea, and Russia. It is unavailable in 32 other countries. See also: https://www.
 bbc.com/news/technology-65139406 and https://www.wepc.com/tips/what-countries-is-chat-gpt-unavailable/. with ChatGPT, the style is more conversational, creating a 
@@ -439,15 +439,15 @@ risks to be investigated and better understood and for shared
 protocols to be developed.
 Privacy concerns
 In April 2023, Italy became the first country to block ChatGPT 
-due to privacy related concerns.13 The countryís data 
+due to privacy related concerns.13 The country‚Äôs data 
 protection authority said that there was no legal basis for 
 the collection and storage of personal data used to train 
 ChatGPT. The authority also raised ethical concerns around 
-the toolís inability to determine a userís age, meaning minors 
+the tool‚Äôs inability to determine a user‚Äôs age, meaning minors 
 may be exposed to age-inappropriate responses. This 
 example highlights wider issues relating to what data is being 
 collected, by whom, and how it is applied in AI.
-11     See also: Sullivan, M., Kelly, A. and McLaughlan, P . (2023) ëChatGPT in higher education: Considerations for academic integrity and student learningí , 
+11     See also: Sullivan, M., Kelly, A. and McLaughlan, P . (2023) ‚ÄòChatGPT in higher education: Considerations for academic integrity and student learning‚Äô , 
 Journal of Applied Learning and Teaching, 6(1). Available at: https://doi.org/10.37074/jalt.2023.6.1.17.
 12     https://futureoflife.org/open-letter/pause-giant-ai-experiments/ 
 13     https://www.bbc.com/news/technology-65139406 
@@ -594,7 +594,7 @@ increase research and development capacity and provide
 students with cutting edge knowledge.
 Existing programmes/courses can be updated to 
 incorporate teaching of:
-		AI literacy ñ as part of an expanded understanding of 
+		AI literacy ‚Äì as part of an expanded understanding of 
 digital literacy and skills
 		AI ethics
 		Core AI competencies and skills
@@ -618,15 +618,15 @@ Regardless of whether ChatGPT and other forms of AI are
 already being used in your HEI, conducting an AI audit19 is an 
 important step that will help assess the current situation and 
 support institutional planning. 
-It is suggested that this audit is undertaken by the HEIís 
+It is suggested that this audit is undertaken by the HEI‚Äôs 
 governing body following extensive consultation with all 
 academic, administrative and IT departments as well as with 
 students. HEIs may consider additionally consulting with their 
 key stakeholders such as members of the local community, 
-research partners, and studentsí families.
+research partners, and students‚Äô families.
 1. Understand the current situation
 		What is data-driven AI?
-		How can digital technology support this HEIís functions?
+		How can digital technology support this HEI‚Äôs functions?
 		If the technology is based on AI: 
 		What data does it collect? 
 		How does its data processing work?
@@ -643,14 +643,14 @@ account for (e.g., from government or research funders)?
 to these tools? 
 		How is training and support provided?
 19     This audit has been adapted with permission from the AI Audit in Education developed by Priscila Gonsales (Co-founder and Director of 
-Educadigital and Researcher at the UNESCO Chair in Open and Distance Education, University of BrasÌlia, Brazil).2. Decide which AI to use
+Educadigital and Researcher at the UNESCO Chair in Open and Distance Education, University of Bras√≠lia, Brazil).2. Decide which AI to use
 		Which areas could benefit from using AI? (e.g., student 
 services, assessment, research)
 		Which AI technology could be chosen?
 		What would be the criteria for choosing?
 		What value does the technology add?
 		How would data be protected?
-		What is the HEIís position on open source/access vs 
+		What is the HEI‚Äôs position on open source/access vs 
 commercial AI tools?
 		How can the HEI ensure accessibility factors are 
 considered?
@@ -684,7 +684,7 @@ Higher Education
 Research and Foresight
 Digital Transformation and Artificial Intelligence
 The UNESCO International Institute for Higher Education (UNESCO 
-IESALC) is one of UNESCOís key education-focused institutes and is 
+IESALC) is one of UNESCO‚Äôs key education-focused institutes and is 
 the only institute in the United Nations  with a specific mandate for 
 higher education. Taking a holistic and integrated intersectoral and 
 cross-sectoral approach to higher education, UNESCO IESALC provides 
