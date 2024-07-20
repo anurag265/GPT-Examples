@@ -5,7 +5,6 @@
  3. Simple Assistant API Examples
  4. PDF to Audiobook
  5. Audio Transcript Generator
- 6. Coming Soon.
 
 ---
 
